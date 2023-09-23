@@ -1,0 +1,1535 @@
+<!DOCTYPE html>
+<!--[if IE 8]> <html lang="pt-BR" class="ie8"> <![endif]-->
+<!--[if !IE]><!--> <html lang="pt-BR"> <!--<![endif]-->
+<head><style>img.lazy{min-height:1px}</style><link rel="preload" href="http://www.nelmetais.com.br/wp-content/plugins/w3-total-cache/pub/js/lazyload.min.js" as="script">
+<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+    <link rel="shortcut icon" href="http://www.nelmetais.com.br/wp-content/themes/havnor/assets/images/favicon.png" />
+<meta name="msapplication-TileColor" content="#d71920">
+<meta name="theme-color" content="#d71920">
+<meta http-equiv="X-UA-Compatible" content="IE=edge;chrome=1" />
+
+<link rel="profile" href="http://gmpg.org/xfn/11">
+<link rel="pingback" href="http://www.nelmetais.com.br/xmlrpc.php">
+
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-42646201-29"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-42646201-29');
+</script>
+
+<title>Pesos e Medidas &#8211; Nelmetais</title>
+<meta name='robots' content='max-image-preview:large' />
+<link rel='dns-prefetch' href='//use.fontawesome.com' />
+<link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<link rel="alternate" type="application/rss+xml" title="Feed para Nelmetais &raquo;" href="http://www.nelmetais.com.br/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Feed de comentários para Nelmetais &raquo;" href="http://www.nelmetais.com.br/comments/feed/" />
+<script type="text/javascript">
+window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/14.0.0\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/14.0.0\/svg\/","svgExt":".svg","source":{"concatemoji":"http:\/\/www.nelmetais.com.br\/wp-includes\/js\/wp-emoji-release.min.js?ver=dffd9009c4c77df643cdd5c6464027c7"}};
+/*! This file is auto-generated */
+!function(e,a,t){var n,r,o,i=a.createElement("canvas"),p=i.getContext&&i.getContext("2d");function s(e,t){p.clearRect(0,0,i.width,i.height),p.fillText(e,0,0);e=i.toDataURL();return p.clearRect(0,0,i.width,i.height),p.fillText(t,0,0),e===i.toDataURL()}function c(e){var t=a.createElement("script");t.src=e,t.defer=t.type="text/javascript",a.getElementsByTagName("head")[0].appendChild(t)}for(o=Array("flag","emoji"),t.supports={everything:!0,everythingExceptFlag:!0},r=0;r<o.length;r++)t.supports[o[r]]=function(e){if(p&&p.fillText)switch(p.textBaseline="top",p.font="600 32px Arial",e){case"flag":return s("\ud83c\udff3\ufe0f\u200d\u26a7\ufe0f","\ud83c\udff3\ufe0f\u200b\u26a7\ufe0f")?!1:!s("\ud83c\uddfa\ud83c\uddf3","\ud83c\uddfa\u200b\ud83c\uddf3")&&!s("\ud83c\udff4\udb40\udc67\udb40\udc62\udb40\udc65\udb40\udc6e\udb40\udc67\udb40\udc7f","\ud83c\udff4\u200b\udb40\udc67\u200b\udb40\udc62\u200b\udb40\udc65\u200b\udb40\udc6e\u200b\udb40\udc67\u200b\udb40\udc7f");case"emoji":return!s("\ud83e\udef1\ud83c\udffb\u200d\ud83e\udef2\ud83c\udfff","\ud83e\udef1\ud83c\udffb\u200b\ud83e\udef2\ud83c\udfff")}return!1}(o[r]),t.supports.everything=t.supports.everything&&t.supports[o[r]],"flag"!==o[r]&&(t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&t.supports[o[r]]);t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&!t.supports.flag,t.DOMReady=!1,t.readyCallback=function(){t.DOMReady=!0},t.supports.everything||(n=function(){t.readyCallback()},a.addEventListener?(a.addEventListener("DOMContentLoaded",n,!1),e.addEventListener("load",n,!1)):(e.attachEvent("onload",n),a.attachEvent("onreadystatechange",function(){"complete"===a.readyState&&t.readyCallback()})),(e=t.source||{}).concatemoji?c(e.concatemoji):e.wpemoji&&e.twemoji&&(c(e.twemoji),c(e.wpemoji)))}(window,document,window._wpemojiSettings);
+</script>
+<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 0.07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+	<link rel='stylesheet' id='wp-block-library-css' href='http://www.nelmetais.com.br/wp-includes/css/dist/block-library/style.min.css?ver=dffd9009c4c77df643cdd5c6464027c7' type='text/css' media='all' />
+<link rel='stylesheet' id='classic-theme-styles-css' href='http://www.nelmetais.com.br/wp-includes/css/classic-themes.min.css?ver=dffd9009c4c77df643cdd5c6464027c7' type='text/css' media='all' />
+<style id='global-styles-inline-css' type='text/css'>
+body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgba(6,147,227,1) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgba(252,185,0,1) 0%,rgba(255,105,0,1) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgba(255,105,0,1) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--duotone--dark-grayscale: url('#wp-duotone-dark-grayscale');--wp--preset--duotone--grayscale: url('#wp-duotone-grayscale');--wp--preset--duotone--purple-yellow: url('#wp-duotone-purple-yellow');--wp--preset--duotone--blue-red: url('#wp-duotone-blue-red');--wp--preset--duotone--midnight: url('#wp-duotone-midnight');--wp--preset--duotone--magenta-yellow: url('#wp-duotone-magenta-yellow');--wp--preset--duotone--purple-green: url('#wp-duotone-purple-green');--wp--preset--duotone--blue-orange: url('#wp-duotone-blue-orange');--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;--wp--preset--spacing--20: 0.44rem;--wp--preset--spacing--30: 0.67rem;--wp--preset--spacing--40: 1rem;--wp--preset--spacing--50: 1.5rem;--wp--preset--spacing--60: 2.25rem;--wp--preset--spacing--70: 3.38rem;--wp--preset--spacing--80: 5.06rem;--wp--preset--shadow--natural: 6px 6px 9px rgba(0, 0, 0, 0.2);--wp--preset--shadow--deep: 12px 12px 50px rgba(0, 0, 0, 0.4);--wp--preset--shadow--sharp: 6px 6px 0px rgba(0, 0, 0, 0.2);--wp--preset--shadow--outlined: 6px 6px 0px -3px rgba(255, 255, 255, 1), 6px 6px rgba(0, 0, 0, 1);--wp--preset--shadow--crisp: 6px 6px 0px rgba(0, 0, 0, 1);}:where(.is-layout-flex){gap: 0.5em;}body .is-layout-flow > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}body .is-layout-flow > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}body .is-layout-flow > .aligncenter{margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}body .is-layout-constrained > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}body .is-layout-constrained > .aligncenter{margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > :where(:not(.alignleft):not(.alignright):not(.alignfull)){max-width: var(--wp--style--global--content-size);margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > .alignwide{max-width: var(--wp--style--global--wide-size);}body .is-layout-flex{display: flex;}body .is-layout-flex{flex-wrap: wrap;align-items: center;}body .is-layout-flex > *{margin: 0;}:where(.wp-block-columns.is-layout-flex){gap: 2em;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+.wp-block-navigation a:where(:not(.wp-element-button)){color: inherit;}
+:where(.wp-block-columns.is-layout-flex){gap: 2em;}
+.wp-block-pullquote{font-size: 1.5em;line-height: 1.6;}
+</style>
+<link rel='stylesheet' id='contact-form-7-css' href='http://www.nelmetais.com.br/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=5.7.5.1' type='text/css' media='all' />
+<link rel='stylesheet' id='font-awesome-all-css' href='https://use.fontawesome.com/releases/v5.8.1/css/all.css?ver=dffd9009c4c77df643cdd5c6464027c7' type='text/css' media='all' />
+<link rel='stylesheet' id='font-awesome-css' href='http://www.nelmetais.com.br/wp-content/themes/havnor/inc/theme-options/cs-framework/assets/css/font-awesome.min.css?ver=dffd9009c4c77df643cdd5c6464027c7' type='text/css' media='all' />
+<link rel='stylesheet' id='pe-icon-7-css' href='http://www.nelmetais.com.br/wp-content/themes/havnor/assets/css/Pe-icon-7-stroke.min.css?ver=2.4' type='text/css' media='all' />
+<link rel='stylesheet' id='et-icons-css' href='http://www.nelmetais.com.br/wp-content/themes/havnor/assets/css/et-icons.css?ver=1.9.1' type='text/css' media='all' />
+<link rel='stylesheet' id='nice-select-css' href='http://www.nelmetais.com.br/wp-content/themes/havnor/assets/css/nice-select.min.css?ver=2.4' type='text/css' media='all' />
+<link rel='stylesheet' id='loaders-css' href='http://www.nelmetais.com.br/wp-content/themes/havnor/assets/css/loaders.min.css?ver=2.4' type='text/css' media='all' />
+<link rel='stylesheet' id='magnific-popup-css' href='http://www.nelmetais.com.br/wp-content/themes/havnor/assets/css/magnific-popup.min.css?ver=2.4' type='text/css' media='all' />
+<link rel='stylesheet' id='swiper-css' href='http://www.nelmetais.com.br/wp-content/themes/havnor/assets/css/swiper.min.css?ver=2.4' type='text/css' media='all' />
+<link rel='stylesheet' id='flexslider-css' href='http://www.nelmetais.com.br/wp-content/plugins/js_composer/assets/lib/flexslider/flexslider.min.css?ver=6.8.0' type='text/css' media='all' />
+<link rel='stylesheet' id='animate-css' href='http://www.nelmetais.com.br/wp-content/themes/havnor/assets/css/animate.min.css?ver=2.4' type='text/css' media='all' />
+<link rel='stylesheet' id='cocoen-css' href='http://www.nelmetais.com.br/wp-content/themes/havnor/assets/css/cocoen.min.css?ver=1.9.1' type='text/css' media='all' />
+<link rel='stylesheet' id='slick-css' href='http://www.nelmetais.com.br/wp-content/themes/havnor/assets/css/slick.css?ver=1.9.1' type='text/css' media='all' />
+<link rel='stylesheet' id='owl-carousel-css' href='http://www.nelmetais.com.br/wp-content/themes/havnor/assets/css/owl.carousel.min.css?ver=2.4' type='text/css' media='all' />
+<link rel='stylesheet' id='lions-map-css' href='http://www.nelmetais.com.br/wp-content/themes/havnor/assets/css/jquery-jvectormap-2.0.3.css?ver=1.9.1' type='text/css' media='all' />
+<link rel='stylesheet' id='meanmenu-css' href='http://www.nelmetais.com.br/wp-content/themes/havnor/assets/css/meanmenu.css?ver=2.0.7' type='text/css' media='all' />
+<link rel='stylesheet' id='slider-css' href='http://www.nelmetais.com.br/wp-content/themes/havnor/assets/css/slider.css?ver=2.0' type='text/css' media='all' />
+<link rel='stylesheet' id='bootstrap-css' href='http://www.nelmetais.com.br/wp-content/themes/havnor/assets/css/bootstrap.min.css?ver=3.3.6' type='text/css' media='all' />
+<link rel='stylesheet' id='havnor-style-css' href='http://www.nelmetais.com.br/wp-content/themes/havnor/assets/css/styles.css?ver=1.9.1' type='text/css' media='all' />
+<link rel='stylesheet' id='dynamic-style-css' href='http://www.nelmetais.com.br/wp-content/themes/havnor/inc/dynamic-style.php?ver=1.9.1' type='text/css' media='all' />
+<link rel='stylesheet' id='havnor-responsive-css' href='http://www.nelmetais.com.br/wp-content/themes/havnor/assets/css/responsive.css?ver=1.9.1' type='text/css' media='all' />
+<link rel='stylesheet' id='havnor-google-fonts-css' href='//fonts.googleapis.com/css?family=Montserrat%3A300%2C400%2C500%2C600%2C700%2C800%7COpen+Sans%3A300%2C400%2C500%2C600%2C700%2C800&#038;subset=latin' type='text/css' media='all' />
+<link rel='stylesheet' id='tablepress-default-css' href='http://www.nelmetais.com.br/wp-content/plugins/tablepress/css/build/default.css?ver=2.1' type='text/css' media='all' />
+<link rel='stylesheet' id='js_composer_front-css' href='http://www.nelmetais.com.br/wp-content/plugins/js_composer/assets/css/js_composer.min.css?ver=6.8.0' type='text/css' media='all' />
+<link rel='stylesheet' id='havnor-child-style-css' href='http://www.nelmetais.com.br/wp-content/themes/havnor-child/style.css' type='text/css' media='all' />
+<link rel='stylesheet' id='malinky-ajax-pagination-css' href='http://www.nelmetais.com.br/wp-content/plugins/havnor-core/assets/css/style.css' type='text/css' media='all' />
+<script type='text/javascript' src='http://www.nelmetais.com.br/wp-includes/js/jquery/jquery.min.js?ver=3.6.4' id='jquery-core-js'></script>
+<script type='text/javascript' src='http://www.nelmetais.com.br/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.0' id='jquery-migrate-js'></script>
+<script type='text/javascript' src='http://www.nelmetais.com.br/wp-content/plugins/revslider/public/assets/js/rbtools.min.js?ver=6.5.14' async id='tp-tools-js'></script>
+<script type='text/javascript' src='http://www.nelmetais.com.br/wp-content/plugins/revslider/public/assets/js/rs6.min.js?ver=6.5.14' async id='revmin-js'></script>
+<link rel="https://api.w.org/" href="http://www.nelmetais.com.br/wp-json/" /><link rel="alternate" type="application/json" href="http://www.nelmetais.com.br/wp-json/wp/v2/pages/5831" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://www.nelmetais.com.br/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://www.nelmetais.com.br/wp-includes/wlwmanifest.xml" />
+
+<link rel="canonical" href="http://www.nelmetais.com.br/pesos-e-medidas/" />
+<link rel='shortlink' href='http://www.nelmetais.com.br/?p=5831' />
+<link rel="alternate" type="application/json+oembed" href="http://www.nelmetais.com.br/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fwww.nelmetais.com.br%2Fpesos-e-medidas%2F" />
+<link rel="alternate" type="text/xml+oembed" href="http://www.nelmetais.com.br/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fwww.nelmetais.com.br%2Fpesos-e-medidas%2F&#038;format=xml" />
+<style type="text/css">.recentcomments a{display:inline !important;padding:0 !important;margin:0 !important;}</style><meta name="generator" content="Powered by WPBakery Page Builder - drag and drop page builder for WordPress."/>
+<link rel="stylesheet" href="http://www.nelmetais.com.br/wp-content/uploads/easy_custom_js_and_css/1.css?v=" type="text/css" media="all" />
+<meta name="generator" content="Powered by Slider Revolution 6.5.14 - responsive, Mobile-Friendly Slider Plugin for WordPress with comfortable drag and drop interface." />
+<script>function setREVStartSize(e){
+			//window.requestAnimationFrame(function() {
+				window.RSIW = window.RSIW===undefined ? window.innerWidth : window.RSIW;
+				window.RSIH = window.RSIH===undefined ? window.innerHeight : window.RSIH;
+				try {
+					var pw = document.getElementById(e.c).parentNode.offsetWidth,
+						newh;
+					pw = pw===0 || isNaN(pw) ? window.RSIW : pw;
+					e.tabw = e.tabw===undefined ? 0 : parseInt(e.tabw);
+					e.thumbw = e.thumbw===undefined ? 0 : parseInt(e.thumbw);
+					e.tabh = e.tabh===undefined ? 0 : parseInt(e.tabh);
+					e.thumbh = e.thumbh===undefined ? 0 : parseInt(e.thumbh);
+					e.tabhide = e.tabhide===undefined ? 0 : parseInt(e.tabhide);
+					e.thumbhide = e.thumbhide===undefined ? 0 : parseInt(e.thumbhide);
+					e.mh = e.mh===undefined || e.mh=="" || e.mh==="auto" ? 0 : parseInt(e.mh,0);
+					if(e.layout==="fullscreen" || e.l==="fullscreen")
+						newh = Math.max(e.mh,window.RSIH);
+					else{
+						e.gw = Array.isArray(e.gw) ? e.gw : [e.gw];
+						for (var i in e.rl) if (e.gw[i]===undefined || e.gw[i]===0) e.gw[i] = e.gw[i-1];
+						e.gh = e.el===undefined || e.el==="" || (Array.isArray(e.el) && e.el.length==0)? e.gh : e.el;
+						e.gh = Array.isArray(e.gh) ? e.gh : [e.gh];
+						for (var i in e.rl) if (e.gh[i]===undefined || e.gh[i]===0) e.gh[i] = e.gh[i-1];
+											
+						var nl = new Array(e.rl.length),
+							ix = 0,
+							sl;
+						e.tabw = e.tabhide>=pw ? 0 : e.tabw;
+						e.thumbw = e.thumbhide>=pw ? 0 : e.thumbw;
+						e.tabh = e.tabhide>=pw ? 0 : e.tabh;
+						e.thumbh = e.thumbhide>=pw ? 0 : e.thumbh;
+						for (var i in e.rl) nl[i] = e.rl[i]<window.RSIW ? 0 : e.rl[i];
+						sl = nl[0];
+						for (var i in nl) if (sl>nl[i] && nl[i]>0) { sl = nl[i]; ix=i;}
+						var m = pw>(e.gw[ix]+e.tabw+e.thumbw) ? 1 : (pw-(e.tabw+e.thumbw)) / (e.gw[ix]);
+						newh =  (e.gh[ix] * m) + (e.tabh + e.thumbh);
+					}
+					var el = document.getElementById(e.c);
+					if (el!==null && el) el.style.height = newh+"px";
+					el = document.getElementById(e.c+"_wrapper");
+					if (el!==null && el) {
+						el.style.height = newh+"px";
+						el.style.display = "block";
+					}
+				} catch(e){
+					console.log("Failure at Presize of Slider:" + e)
+				}
+			//});
+		  };</script>
+		<style type="text/css" id="wp-custom-css">
+			p {
+	font-size: 18px;
+}
+blockquote cite {
+	font-size: 18px;
+}
+.footer-widget h4 {
+  font-size: 22px;
+}
+.work-detail-wrap p {
+	padding-bottom: 25px;
+}
+.work-detail-wrap h3 {
+	padding-bottom: 0px;
+}
+.hanor-widget h4.widget-title {
+  font-size: 16px;
+  font-weight: 600;
+}
+.blogs-style-three .blog-meta {
+  font-size: 16px;
+}
+.team-style-one .mate-item .mate-info p {
+	line-height: 24px;
+}		</style>
+		<style type="text/css" data-type="vc_shortcodes-custom-css">.vc_custom_1563912051028{padding-top: 30px !important;}</style><noscript><style> .wpb_animate_when_almost_visible { opacity: 1; }</style></noscript></head>
+<body class="page-template-default page page-id-5831 wpb-js-composer js-comp-ver-6.8.0 vc_responsive">
+<!-- Hanor Main Wrap -->
+<div class="hanor-main-wrap  hanor-dnt-transparent-header header-style-one 1">
+  <!-- Hanor Main Wrap Inner -->
+  <div class="main-wrap-inner">
+  
+<div class="hanor-topbar  hide-topbar-responsive">
+  <div class="container">
+    <div class="pull-left" style="">
+      <i class="fa fa-line-chart"></i> 22/09/23 | <b style="color: #ffc9cb">DOLAR:</b> <i class="fas fa-caret-up"></i> R$ 4,92 | <b style="color: #ffc9cb">COBRE:</b> <i class="fas fa-caret-up"></i> USD$ 8.188,00 | <b style="color: #ffc9cb">ALUMÍNIO:</b> <i class="fas fa-caret-up"></i> USD$ 2.199,50    </div>
+    <div class="pull-right" style="">
+    <b style="color: #ffc9cb">SÃO PAULO:</b> <i class='fas fa-sun'></i> 20°C | <b style="color: #ffc9cb">CAMPINAS:</b> <i class='fas fa-sun'></i> 26°C
+<!-- [havnor_socials ][havnor_social social_link="https://www.facebook.com" social_icon="fa fa-facebook" target_tab="1"][havnor_social social_link="https://www.twitter.com" social_icon="fa fa-twitter" target_tab="1"][havnor_social social_link="https://www.plus.google.com" social_icon="fa fa-google-plus" target_tab="1"][havnor_social social_link="https://www.instagram.com" social_icon="fa fa-instagram" target_tab="1"][havnor_social social_link="https://www.linkedin.com" social_icon="fa fa-linkedin" target_tab="1"][/havnor_socials] -->    </div>
+  </div>
+</div>
+  <!-- Header -->
+  <header class="hanor-header  mean-menu-parent hanor-sticky">
+    <div class="container">
+      <div class="hanor-brand  dhav-transparent-logo dhav-trans-retina hav-default-logo hav-d-retina-logo" style="padding-top:25px;padding-bottom:29px;">
+	<a href="http://www.nelmetais.com.br/">
+	<img src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20235%2045'%3E%3C/svg%3E" data-src="http://www.nelmetais.com.br/wp-content/uploads/2019/05/logo-nelmetais-dark.png" width="235" height="45" alt="Nelmetais" class="retina-logo normal-logo lazy">
+				<img src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20235%2045'%3E%3C/svg%3E" data-src="http://www.nelmetais.com.br/wp-content/uploads/2019/05/logo-nelmetais-dark.png" alt="Nelmetais" class="default-logo normal-logo lazy" width="235" height="45"></a></div>
+      <div class="hanor-header-right">
+        <!-- Navigation & Search -->
+<nav class="hanor-navigation" data-nav="1199">
+<ul id="menu-main-menu" class=""><li id="menu-item-6095" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6095"><a href="http://www.nelmetais.com.br/nelmetais/"><span class="menu-text"><span class="menu-text-wrap" data-hover="Nelmetais">Nelmetais</span></span></a></li>
+<li id="menu-item-5086" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-5086 has-dropdown"><a href="#" class="dropdown-toggle" aria-haspopup="true"><span class="menu-text"><span class="menu-text-wrap" data-hover="Produtos">Produtos </span></span></a>
+<ul role="menu" class=" dropdown-nav">
+	<li id="menu-item-5680" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5680"><a href="http://www.nelmetais.com.br/aco-inox/"><span class="menu-text"><span class="menu-text-wrap" data-hover="Aço Inox">Aço Inox</span></span></a></li>
+	<li id="menu-item-5238" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5238"><a href="http://www.nelmetais.com.br/aluminio/"><span class="menu-text"><span class="menu-text-wrap" data-hover="Alumínio">Alumínio</span></span></a></li>
+	<li id="menu-item-5710" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5710"><a href="http://www.nelmetais.com.br/bronze/"><span class="menu-text"><span class="menu-text-wrap" data-hover="Bronze">Bronze</span></span></a></li>
+	<li id="menu-item-5747" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5747"><a href="http://www.nelmetais.com.br/cobre/"><span class="menu-text"><span class="menu-text-wrap" data-hover="Cobre">Cobre</span></span></a></li>
+	<li id="menu-item-5783" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5783"><a href="http://www.nelmetais.com.br/latao/"><span class="menu-text"><span class="menu-text-wrap" data-hover="Latão">Latão</span></span></a></li>
+	<li id="menu-item-6300" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6300"><a href="http://www.nelmetais.com.br/plastico-de-engenharia/"><span class="menu-text"><span class="menu-text-wrap" data-hover="Plástico de Engenharia">Plástico de Engenharia</span></span></a></li>
+</ul>
+</li>
+<li id="menu-item-5833" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-5831 current_page_item menu-item-5833 active"><a href="http://www.nelmetais.com.br/pesos-e-medidas/"><span class="menu-text"><span class="menu-text-wrap" data-hover="Pesos e Medidas">Pesos e Medidas</span></span></a></li>
+<li id="menu-item-5468" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5468"><a href="http://www.nelmetais.com.br/lme/"><span class="menu-text"><span class="menu-text-wrap" data-hover="LME">LME</span></span></a></li>
+<li id="menu-item-5087" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-5087 has-dropdown"><a href="#" class="dropdown-toggle" aria-haspopup="true"><span class="menu-text"><span class="menu-text-wrap" data-hover="Contato">Contato </span></span></a>
+<ul role="menu" class=" dropdown-nav">
+	<li id="menu-item-5903" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5903"><a href="http://www.nelmetais.com.br/fale-conosco/"><span class="menu-text"><span class="menu-text-wrap" data-hover="Fale Conosco">Fale Conosco</span></span></a></li>
+	<li id="menu-item-5944" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5944"><a href="http://www.nelmetais.com.br/orcamento/"><span class="menu-text"><span class="menu-text-wrap" data-hover="Orçamento">Orçamento</span></span></a></li>
+</ul>
+</li>
+</ul>
+</nav> <!-- Container -->
+<div class="header-links-wrap">
+  </div>
+      </div>
+    </div> <!-- Container -->
+  </header>
+  <!-- Hanor Page Title, Hanor Parallax -->
+<section class="hanor-page-title hanor-parallax padding-lg banner-center dhav-breadcrum lazy" style="" data-bg="url(http://www2.nelmetais.com.br/wp-content/uploads/2019/05/fundo_vermelho_nelmetais.jpg)">
+  <div class="parallax-overlay" style=background-color:rgba(0,0,0,0.66)></div>
+  <div class="container">
+  <div class="hanor-title-wrap">
+        <h5 class="page-sub-title">Cálculo de</h5>
+          <h1 class="page-title">Pesos e Medidas</h1>
+    </div>
+    </div>
+</section>
+<div class="hanor-mid-wrap padding-default full-width" style="">
+	<div class="container">
+		<div class="row">
+						<div class="hanor-content-side col-md-12">
+				<div class="vc_row wpb_row vc_row-fluid hanor-dhav-dotted"><div class="wpb_column vc_column_container text-default vc_col-sm-12"><div class="vc_column-inner "><div class="wpb_wrapper">
+	<div class="wpb_text_column wpb_content_element " >
+		<div class="wpb_wrapper">
+			<p>Calcule aqui o peso do material desejado, os cálculos de pesos apresentados nesta ferramenta não garantem a possibilidade de fabricação nas dimensões e produtos solicitados. Consulte sempre nosso departamento de vendas para maiores esclarecimentos.</p>
+<p>Os pesos apresentados são apenas informativos. As variações ocorrem de acordo com as tolerâncias especificadas pelos fabricantes.</p>
+
+		</div>
+	</div>
+</div></div></div></div><div class="vc_row wpb_row vc_row-fluid hanor-dhav-dotted"><div class="listademetais wpb_column vc_column_container text-default vc_col-sm-12"><div class="vc_column-inner "><div class="wpb_wrapper">
+	<div class="wpb_text_column wpb_content_element " >
+		<div class="wpb_wrapper">
+			<h3 style="text-align: center;">Cálculo de Peso de metais</h3>
+
+		</div>
+	</div>
+<div id="calculodepeso">
+	<ul class="botoesmetal">
+		<li id="metal_aco" class="active">Aço</li>
+		<li id="metal_aluminio">Alumínio</li>
+		<li id="metal_bronze">Bronze</li>
+		<li id="metal_cobre">Cobre</li>
+		<li id="metal_ferro">Ferro</li>
+		<li id="metal_latao">Latão</li>
+	</ul>
+	
+	<ul class="botoestipos">
+		<li class="active" tipo="barra_quadrada"><img class="lazy" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201%201'%3E%3C/svg%3E" data-src="http://www2.nelmetais.com.br/wp-content/uploads/2019/05/barra-quadrada.png" height="20"/><br/>Barra<br/>Quadrada</li>
+		<li tipo="barra_retangular"><img class="lazy" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201%201'%3E%3C/svg%3E" data-src="http://www2.nelmetais.com.br/wp-content/uploads/2019/05/barra-retangular-canto-vivo.png" height="20"/><br/>Barra<br/>Retangular</li>
+		<li tipo="bobina"><img class="lazy" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201%201'%3E%3C/svg%3E" data-src="http://www2.nelmetais.com.br/wp-content/uploads/2019/05/bobinas.png" height="20"/><br/>Bobina</li>
+		<li tipo="chapa"><img class="lazy" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201%201'%3E%3C/svg%3E" data-src="http://www2.nelmetais.com.br/wp-content/uploads/2019/05/chapa-lisa.png" height="20"/><br/>Chapa</li>
+		<li tipo="tarugo"><img class="lazy" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201%201'%3E%3C/svg%3E" data-src="http://www2.nelmetais.com.br/wp-content/uploads/2019/05/barra-redonda.png" height="20"/><br/>Tarugo</li>
+		<li tipo="barra_redonda"><img class="lazy" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201%201'%3E%3C/svg%3E" data-src="http://www2.nelmetais.com.br/wp-content/uploads/2019/05/barra-redonda.png" height="20"/><br/>Barra<br/>Redonda</li>
+		<li tipo="barra_hexagonal"><img class="lazy" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201%201'%3E%3C/svg%3E" data-src="http://www2.nelmetais.com.br/wp-content/uploads/2019/05/barra-sextavada.png" height="20"/><br/>Barra<br/>Sextavada</li>
+		<li tipo="bucha"><img class="lazy" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201%201'%3E%3C/svg%3E" data-src="http://www2.nelmetais.com.br/wp-content/uploads/2019/05/tubo-redondo.png" height="20"/><br/>Bucha</li>
+		<li tipo="tubo_redondo"><img class="lazy" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201%201'%3E%3C/svg%3E" data-src="http://www2.nelmetais.com.br/wp-content/uploads/2019/05/tubo-redondo.png" height="20"/><br/>Tubo<br/>Redondo</li>
+		<li tipo="tubo_quadrado"><img class="lazy" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201%201'%3E%3C/svg%3E" data-src="http://www2.nelmetais.com.br/wp-content/uploads/2019/05/tubo-quadrado.png" height="20"/><br/>Tubo<br/>Quadrado</li>
+		<li tipo="tubo_retangular"><img class="lazy" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201%201'%3E%3C/svg%3E" data-src="http://www2.nelmetais.com.br/wp-content/uploads/2019/05/tubo-retangular.png" height="20"/><br/>Tubo<br/>Retangular</li>
+		<li tipo="perfil_l"><img class="lazy" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201%201'%3E%3C/svg%3E" data-src="http://www2.nelmetais.com.br/wp-content/uploads/2019/05/cantoneira-abas-iguais.png" height="20"/><br/>Perfil L</li>
+		<li tipo="perfil_t"><img class="lazy" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201%201'%3E%3C/svg%3E" data-src="http://www2.nelmetais.com.br/wp-content/uploads/2019/05/perfil-t-abas-iguais.png" height="20"/><br/>Perfil T</li>
+		<li tipo="perfil_u"><img class="lazy" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201%201'%3E%3C/svg%3E" data-src="http://www2.nelmetais.com.br/wp-content/uploads/2019/05/perfil-u-abas-iguais.png" height="20"/><br/>Perfil U</li>
+	</ul>
+	
+	<div class="container">
+		<div class="col-1">
+			<img class="lazy" id="img-tipometal" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201%201'%3E%3C/svg%3E" data-src="../wp-content/uploads/2019/07/barra-quadrada.jpg"/>
+		</div>
+		<div class="col-2">
+			<input type="hidden" id="material" value="Aço" />
+			<input type="hidden" id="tipo" value="barra_quadrada" />
+			<div id="diva"><label for="txta" id="diva_label"><span class="selo">A</span> - Altura (mm)</label><input id="txta" type="text" placeholder="-" /></div>	
+			<div id="divb"><label for="txtb" id="divb_label"><span class="selo">C</span> - Comprimento (mm)</label><input id="txtb" type="text" placeholder="-" /></div>	
+			<div id="divc" style="display: none;"><label for="txtc" id="divc_label">Comprimento (mm)</label><input id="txtc" type="text" placeholder="-" /></div>	
+			<div id="divd" style="display: none;"><label for="txtd" id="divd_label">Comprimento (mm)</label><input id="txtd" type="text" placeholder="-" /></div>
+			<div class="val" id="divRes"><label id="divRes_label"><span class="selo">Peso por peça</span> </label><span id="divRes_valor">-</span></div>
+		</div>
+	</div>
+</div>
+
+
+	<div class="wpb_text_column wpb_content_element " >
+		<div class="wpb_wrapper">
+			
+
+		</div>
+	</div>
+</div></div></div></div><div class="vc_row wpb_row vc_row-fluid hanor-dhav-dotted vc_custom_1563912051028"><div class="listademetais wpb_column vc_column_container text-default vc_col-sm-12"><div class="vc_column-inner "><div class="wpb_wrapper">
+	<div class="wpb_text_column wpb_content_element " >
+		<div class="wpb_wrapper">
+			<h3 style="text-align: center;">Conversor de Medidas</h3>
+
+		</div>
+	</div>
+
+<div id="conversordemedidas">
+	<div class="container">
+		<div class="col-1">
+			<h5>Polegadas (")</h5>
+			<select id="polegada" multiple size="10" class="selectConversao ignore">
+				<option>  1/32</option>
+				<option>  1/16</option>
+				<option>  3/32</option>
+				<option>  1/8</option>
+				<option>  5/32</option>
+				<option>  3/16</option>
+				<option>  7/32</option>
+				<option>  1/4</option>
+				<option>  9/32</option>
+				<option>  5/16</option>
+				<option>  11/32</option>
+				<option>  3/8</option>
+				<option>  7/16</option>
+				<option>  1/2</option>
+				<option>  9/16</option>
+				<option>  5/8</option>
+				<option>  11/16</option>
+				<option>  3/4</option>
+				<option>  13/16</option>
+				<option>  7/8</option>
+				<option>  15/16</option>
+				<option>1  </option>
+				<option>1.1/32</option>
+				<option>1.1/16</option>
+				<option>1.3/32</option>
+				<option>1.1/8</option>
+				<option>1.5/32</option>
+				<option>1.3/16</option>
+				<option>1.7/32</option>
+				<option>1.1/4</option>
+				<option>1.9/32</option>
+				<option>1.5/16</option>
+				<option>1.11/32</option>
+				<option>1.3/8</option>
+				<option>1.7/16</option>
+				<option>1.1/2</option>
+				<option>1.9/16</option>
+				<option>1.5/8</option>
+				<option>1.11/16</option>
+				<option>1.3/4</option>
+				<option>1.13/16</option>
+				<option>1.7/8</option>
+				<option>1.15/16</option>
+				<option>2  </option>
+				<option>2.1/32</option>
+				<option>2.1/16</option>
+				<option>2.3/32</option>
+				<option>2.1/8</option>
+				<option>2.5/32</option>
+				<option>2.3/16</option>
+				<option>2.7/32</option>
+				<option>2.1/4</option>
+				<option>2.9/32</option>
+				<option>2.5/16</option>
+				<option>2.11/32</option>
+				<option>2.3/8</option>
+				<option>2.7/16</option>
+				<option>2.1/2</option>
+				<option>2.9/16</option>
+				<option>2.5/8</option>
+				<option>2.11/16</option>
+				<option>2.3/4</option>
+				<option>2.13/16</option>
+				<option>2.7/8</option>
+				<option>2.15/16</option>
+				<option>3  </option>
+				<option>3.1/32</option>
+				<option>3.1/16</option>
+				<option>3.3/32</option>
+				<option>3.1/8</option>
+				<option>3.5/32</option>
+				<option>3.3/16</option>
+				<option>3.7/32</option>
+				<option>3.1/4</option>
+				<option>3.9/32</option>
+				<option>3.5/16</option>
+				<option>3.11/32</option>
+				<option>3.3/8</option>
+				<option>3.7/16</option>
+				<option>3.1/2</option>
+				<option>3.9/16</option>
+				<option>3.5/8</option>
+				<option>3.11/16</option>
+				<option>3.3/4</option>
+				<option>3.13/16</option>
+				<option>3.7/8</option>
+				<option>3.15/16</option>
+				<option>4  </option>
+				<option>4.1/32</option>
+				<option>4.1/16</option>
+				<option>4.3/32</option>
+				<option>4.1/8</option>
+				<option>4.5/32</option>
+				<option>4.3/16</option>
+				<option>4.7/32</option>
+				<option>4.1/4</option>
+				<option>4.9/32</option>
+				<option>4.5/16</option>
+				<option>4.11/32</option>
+				<option>4.3/8</option>
+				<option>4.7/16</option>
+				<option>4.1/2</option>
+				<option>4.9/16</option>
+				<option>4.5/8</option>
+				<option>4.11/16</option>
+				<option>4.3/4</option>
+				<option>4.13/16</option>
+				<option>4.7/8</option>
+				<option>4.15/16</option>
+				<option>5  </option>
+				<option>5.1/32</option>
+				<option>5.1/16</option>
+				<option>5.3/32</option>
+				<option>5.1/8</option>
+				<option>5.5/32</option>
+				<option>5.3/16</option>
+				<option>5.7/32</option>
+				<option>5.1/4</option>
+				<option>5.9/32</option>
+				<option>5.5/16</option>
+				<option>5.11/32</option>
+				<option>5.3/8</option>
+				<option>5.7/16</option>
+				<option>5.1/2</option>
+				<option>5.9/16</option>
+				<option>5.5/8</option>
+				<option>5.11/16</option>
+				<option>5.3/4</option>
+				<option>5.13/16</option>
+				<option>5.7/8</option>
+				<option>5.15/16</option>
+				<option>6  </option>
+				<option>6.1/32</option>
+				<option>6.1/16</option>
+				<option>6.3/32</option>
+				<option>6.1/8</option>
+				<option>6.5/32</option>
+				<option>6.3/16</option>
+				<option>6.7/32</option>
+				<option>6.1/4</option>
+				<option>6.9/32</option>
+				<option>6.5/16</option>
+				<option>6.11/32</option>
+				<option>6.3/8</option>
+				<option>6.7/16</option>
+				<option>6.1/2</option>
+				<option>6.9/16</option>
+				<option>6.5/8</option>
+				<option>6.11/16</option>
+				<option>6.3/4</option>
+				<option>6.13/16</option>
+				<option>6.7/8</option>
+				<option>6.15/16</option>
+				<option>7  </option>
+				<option>7.1/32</option>
+				<option>7.1/16</option>
+				<option>7.3/32</option>
+				<option>7.1/8</option>
+				<option>7.5/32</option>
+				<option>7.3/16</option>
+				<option>7.7/32</option>
+				<option>7.1/4</option>
+				<option>7.9/32</option>
+				<option>7.5/16</option>
+				<option>7.11/32</option>
+				<option>7.3/8</option>
+				<option>7.7/16</option>
+				<option>7.1/2</option>
+				<option>7.9/16</option>
+				<option>7.5/8</option>
+				<option>7.11/16</option>
+				<option>7.3/4</option>
+				<option>7.13/16</option>
+				<option>7.7/8</option>
+				<option>7.15/16</option>
+				<option>8  </option>
+				<option>8.1/32</option>
+				<option>8.1/16</option>
+				<option>8.3/32</option>
+				<option>8.1/8</option>
+				<option>8.5/32</option>
+				<option>8.3/16</option>
+				<option>8.7/32</option>
+				<option>8.1/4</option>
+				<option>8.9/32</option>
+				<option>8.5/16</option>
+				<option>8.11/32</option>
+				<option>8.3/8</option>
+				<option>8.7/16</option>
+				<option>8.1/2</option>
+				<option>8.9/16</option>
+				<option>8.5/8</option>
+				<option>8.11/16</option>
+				<option>8.3/4</option>
+				<option>8.13/16</option>
+				<option>8.7/8</option>
+				<option>8.15/16</option>
+				<option>9  </option>
+				<option>9.1/32</option>
+				<option>9.1/16</option>
+				<option>9.3/32</option>
+				<option>9.1/8</option>
+				<option>9.5/32</option>
+				<option>9.3/16</option>
+				<option>9.7/32</option>
+				<option>9.1/4</option>
+				<option>9.9/32</option>
+				<option>9.5/16</option>
+				<option>9.11/32</option>
+				<option>9.3/8</option>
+				<option>9.7/16</option>
+				<option>9.1/2</option>
+				<option>9.9/16</option>
+				<option>9.5/8</option>
+				<option>9.11/16</option>
+				<option>9.3/4</option>
+				<option>9.13/16</option>
+				<option>9.7/8</option>
+				<option>9.15/16</option>
+				<option>10  </option>
+				<option>10.1/32</option>
+				<option>10.1/16</option>
+				<option>10.3/32</option>
+				<option>10.1/8</option>
+				<option>10.5/32</option>
+				<option>10.3/16</option>
+				<option>10.7/32</option>
+				<option>10.1/4</option>
+				<option>10.9/32</option>
+				<option>10.5/16</option>
+				<option>10.11/32</option>
+				<option>10.3/8</option>
+				<option>10.7/16</option>
+				<option>10.1/2</option>
+				<option>10.9/16</option>
+				<option>10.5/8</option>
+				<option>10.11/16</option>
+				<option>10.3/4</option>
+				<option>10.13/16</option>
+				<option>10.7/8</option>
+				<option>10.15/16</option>
+				<option>11  </option>
+				<option>11.1/32</option>
+				<option>11.1/16</option>
+				<option>11.3/32</option>
+				<option>11.1/8</option>
+				<option>11.5/32</option>
+				<option>11.3/16</option>
+				<option>11.7/32</option>
+				<option>11.1/4</option>
+				<option>11.9/32</option>
+				<option>11.5/16</option>
+				<option>11.11/32</option>
+				<option>11.3/8</option>
+				<option>11.7/16</option>
+				<option>11.1/2</option>
+				<option>11.9/16</option>
+				<option>11.5/8</option>
+				<option>11.11/16</option>
+				<option>11.3/4</option>
+				<option>11.13/16</option>
+				<option>11.7/8</option>
+				<option>11.15/16</option>
+				<option>12  </option>
+				<option>12.1/32</option>
+				<option>12.1/16</option>
+				<option>12.3/32</option>
+				<option>12.1/8</option>
+				<option>12.5/32</option>
+				<option>12.3/16</option>
+				<option>12.7/32</option>
+				<option>12.1/4</option>
+				<option>12.9/32</option>
+				<option>12.5/16</option>
+				<option>12.11/32</option>
+				<option>12.3/8</option>
+				<option>12.7/16</option>
+				<option>12.1/2</option>
+				<option>12.9/16</option>
+				<option>12.5/8</option>
+				<option>12.11/16</option>
+				<option>12.3/4</option>
+				<option>12.13/16</option>
+				<option>12.7/8</option>
+				<option>12.15/16</option>
+				<option>13  </option>
+				<option>13.1/32</option>
+				<option>13.1/16</option>
+				<option>13.3/32</option>
+				<option>13.1/8</option>
+				<option>13.5/32</option>
+				<option>13.3/16</option>
+				<option>13.7/32</option>
+				<option>13.1/4</option>
+				<option>13.9/32</option>
+				<option>13.5/16</option>
+				<option>13.11/32</option>
+				<option>13.3/8</option>
+				<option>13.7/16</option>
+				<option>13.1/2</option>
+				<option>13.9/16</option>
+				<option>13.5/8</option>
+				<option>13.11/16</option>
+				<option>13.3/4</option>
+				<option>13.13/16</option>
+				<option>13.7/8</option>
+				<option>13.15/16</option>
+				<option>14  </option>
+				<option>14.1/32</option>
+				<option>14.1/16</option>
+				<option>14.3/32</option>
+				<option>14.1/8</option>
+				<option>14.5/32</option>
+				<option>14.3/16</option>
+				<option>14.7/32</option>
+				<option>14.1/4</option>
+				<option>14.9/32</option>
+				<option>14.5/16</option>
+				<option>14.11/32</option>
+				<option>14.3/8</option>
+				<option>14.7/16</option>
+				<option>14.1/2</option>
+				<option>14.9/16</option>
+				<option>14.5/8</option>
+				<option>14.11/16</option>
+				<option>14.3/4</option>
+				<option>14.13/16</option>
+				<option>14.7/8</option>
+				<option>14.15/16</option>
+				<option>15  </option>
+				<option>15.1/32</option>
+				<option>15.1/16</option>
+				<option>15.3/32</option>
+				<option>15.1/8</option>
+				<option>15.5/32</option>
+				<option>15.3/16</option>
+				<option>15.7/32</option>
+				<option>15.1/4</option>
+				<option>15.9/32</option>
+				<option>15.5/16</option>
+				<option>15.11/32</option>
+				<option>15.3/8</option>
+				<option>15.7/16</option>
+				<option>15.1/2</option>
+				<option>15.9/16</option>
+				<option>15.5/8</option>
+				<option>15.11/16</option>
+				<option>15.3/4</option>
+				<option>15.13/16</option>
+				<option>15.7/8</option>
+				<option>15.15/16</option>
+				<option>16  </option>
+				<option>16.1/32</option>
+				<option>16.1/16</option>
+				<option>16.3/32</option>
+				<option>16.1/8</option>
+				<option>16.5/32</option>
+				<option>16.3/16</option>
+				<option>16.7/32</option>
+				<option>16.1/4</option>
+				<option>16.9/32</option>
+				<option>16.5/16</option>
+				<option>16.11/32</option>
+				<option>16.3/8</option>
+				<option>16.7/16</option>
+				<option>16.1/2</option>
+				<option>16.9/16</option>
+				<option>16.5/8</option>
+				<option>16.11/16</option>
+				<option>16.3/4</option>
+				<option>16.13/16</option>
+				<option>16.7/8</option>
+				<option>16.15/16</option>
+				<option>17  </option>
+				<option>17.1/32</option>
+				<option>17.1/16</option>
+				<option>17.3/32</option>
+				<option>17.1/8</option>
+				<option>17.5/32</option>
+				<option>17.3/16</option>
+				<option>17.7/32</option>
+				<option>17.1/4</option>
+				<option>17.9/32</option>
+				<option>17.5/16</option>
+				<option>17.11/32</option>
+				<option>17.3/8</option>
+				<option>17.7/16</option>
+				<option>17.1/2</option>
+				<option>17.9/16</option>
+				<option>17.5/8</option>
+				<option>17.11/16</option>
+				<option>17.3/4</option>
+				<option>17.13/16</option>
+				<option>17.7/8</option>
+				<option>17.15/16</option>
+				<option>18  </option>
+				<option>18.1/32</option>
+				<option>18.1/16</option>
+				<option>18.3/32</option>
+				<option>18.1/8</option>
+				<option>18.5/32</option>
+				<option>18.3/16</option>
+				<option>18.7/32</option>
+				<option>18.1/4</option>
+				<option>18.9/32</option>
+				<option>18.5/16</option>
+				<option>18.11/32</option>
+				<option>18.3/8</option>
+				<option>18.7/16</option>
+				<option>18.1/2</option>
+				<option>18.9/16</option>
+				<option>18.5/8</option>
+				<option>18.11/16</option>
+				<option>18.3/4</option>
+				<option>18.13/16</option>
+				<option>18.7/8</option>
+				<option>18.15/16</option>
+				<option>19  </option>
+				<option>19.1/32</option>
+				<option>19.1/16</option>
+				<option>19.3/32</option>
+				<option>19.1/8</option>
+				<option>19.5/32</option>
+				<option>19.3/16</option>
+				<option>19.7/32</option>
+				<option>19.1/4</option>
+				<option>19.9/32</option>
+				<option>19.5/16</option>
+				<option>19.11/32</option>
+				<option>19.3/8</option>
+				<option>19.7/16</option>
+				<option>19.1/2</option>
+				<option>19.9/16</option>
+				<option>19.5/8</option>
+				<option>19.11/16</option>
+				<option>19.3/4</option>
+				<option>19.13/16</option>
+				<option>19.7/8</option>
+				<option>19.15/16</option>
+				<option>20  </option>
+				<option>20.1/32</option>
+				<option>20.1/16</option>
+				<option>20.3/32</option>
+				<option>20.1/8</option>
+				<option>20.5/32</option>
+				<option>20.3/16</option>
+				<option>20.7/32</option>
+				<option>20.1/4</option>
+				<option>20.9/32</option>
+				<option>20.5/16</option>
+				<option>20.11/32</option>
+				<option>20.3/8</option>
+				<option>20.7/16</option>
+				<option>20.1/2</option>
+				<option>20.9/16</option>
+				<option>20.5/8</option>
+				<option>20.11/16</option>
+				<option>20.3/4</option>
+				<option>20.13/16</option>
+				<option>20.7/8</option>
+				<option>20.15/16</option>
+				<option>21  </option>
+				<option>21.1/32</option>
+				<option>21.1/16</option>
+				<option>21.3/32</option>
+				<option>21.1/8</option>
+				<option>21.5/32</option>
+				<option>21.3/16</option>
+				<option>21.7/32</option>
+				<option>21.1/4</option>
+				<option>21.9/32</option>
+				<option>21.5/16</option>
+				<option>21.11/32</option>
+				<option>21.3/8</option>
+				<option>21.7/16</option>
+				<option>21.1/2</option>
+				<option>21.9/16</option>
+				<option>21.5/8</option>
+				<option>21.11/16</option>
+				<option>21.3/4</option>
+				<option>21.13/16</option>
+				<option>21.7/8</option>
+				<option>21.15/16</option>
+				<option>22  </option>
+				<option>22.1/32</option>
+				<option>22.1/16</option>
+				<option>22.3/32</option>
+				<option>22.1/8</option>
+				<option>22.5/32</option>
+				<option>22.3/16</option>
+				<option>22.7/32</option>
+				<option>22.1/4</option>
+				<option>22.9/32</option>
+				<option>22.5/16</option>
+				<option>22.11/32</option>
+				<option>22.3/8</option>
+				<option>22.7/16</option>
+				<option>22.1/2</option>
+				<option>22.9/16</option>
+				<option>22.5/8</option>
+				<option>22.11/16</option>
+				<option>22.3/4</option>
+				<option>22.13/16</option>
+				<option>22.7/8</option>
+				<option>22.15/16</option>
+				<option>23  </option>
+				<option>23.1/32</option>
+				<option>23.1/16</option>
+				<option>23.3/32</option>
+				<option>23.1/8</option>
+				<option>23.5/32</option>
+				<option>23.3/16</option>
+				<option>23.7/32</option>
+				<option>23.1/4</option>
+				<option>23.9/32</option>
+				<option>23.5/16</option>
+				<option>23.11/32</option>
+				<option>23.3/8</option>
+				<option>23.7/16</option>
+				<option>23.1/2</option>
+				<option>23.9/16</option>
+				<option>23.5/8</option>
+				<option>23.11/16</option>
+				<option>23.3/4</option>
+				<option>23.13/16</option>
+				<option>23.7/8</option>
+				<option>23.15/16</option>
+			</select>
+		</div>
+		<div class="col-2">
+			<h5>Milímetros (mm)</h5>			
+			<select id="mm" multiple size="10" class="selectConversao ignore">
+				<option>0,79</option>
+				<option>1,58</option>
+				<option>2,38</option>
+				<option>3,17</option>
+				<option>3,97</option>
+				<option>4,76</option>
+				<option>5,55</option>
+				<option>6,35</option>
+				<option>7,14</option>
+				<option>7,94</option>
+				<option>8,73</option>
+				<option>9,52</option>
+				<option>11,11</option>
+				<option>12,70</option>
+				<option>14,28</option>
+				<option>15,87</option>
+				<option>17,46</option>
+				<option>19,05</option>
+				<option>20,64</option>
+				<option>22,22</option>
+				<option>23,81</option>
+				<option>25,40</option>
+				<option>26,19</option>
+				<option>26,98</option>
+				<option>27,78</option>
+				<option>28,57</option>
+				<option>29,37</option>
+				<option>30,16</option>
+				<option>30,95</option>
+				<option>31,75</option>
+				<option>32,54</option>
+				<option>33,34</option>
+				<option>34,13</option>
+				<option>34,92</option>
+				<option>36,51</option>
+				<option>38,10</option>
+				<option>39,68</option>
+				<option>41,27</option>
+				<option>42,86</option>
+				<option>44,45</option>
+				<option>46,04</option>
+				<option>47,62</option>
+				<option>49,21</option>
+				<option>50,80</option>
+				<option>51,59</option>
+				<option>52,38</option>
+				<option>53,18</option>
+				<option>53,97</option>
+				<option>54,77</option>
+				<option>55,56</option>
+				<option>56,35</option>
+				<option>57,15</option>
+				<option>57,94</option>
+				<option>58,74</option>
+				<option>59,53</option>
+				<option>60,32</option>
+				<option>61,91</option>
+				<option>63,50</option>
+				<option>65,08</option>
+				<option>66,67</option>
+				<option>68,26</option>
+				<option>69,85</option>
+				<option>71,44</option>
+				<option>73,02</option>
+				<option>74,61</option>
+				<option>76,20</option>
+				<option>76,99</option>
+				<option>77,78</option>
+				<option>78,58</option>
+				<option>79,37</option>
+				<option>80,17</option>
+				<option>80,96</option>
+				<option>81,75</option>
+				<option>82,55</option>
+				<option>83,34</option>
+				<option>84,14</option>
+				<option>84,93</option>
+				<option>85,72</option>
+				<option>87,31</option>
+				<option>88,90</option>
+				<option>90,48</option>
+				<option>92,07</option>
+				<option>93,66</option>
+				<option>95,25</option>
+				<option>96,84</option>
+				<option>98,42</option>
+				<option>100,01</option>
+				<option>101,60</option>
+				<option>102,39</option>
+				<option>103,18</option>
+				<option>103,98</option>
+				<option>104,77</option>
+				<option>105,57</option>
+				<option>106,36</option>
+				<option>107,15</option>
+				<option>107,95</option>
+				<option>108,74</option>
+				<option>109,54</option>
+				<option>110,33</option>
+				<option>111,12</option>
+				<option>112,71</option>
+				<option>114,30</option>
+				<option>115,88</option>
+				<option>117,47</option>
+				<option>119,06</option>
+				<option>120,65</option>
+				<option>122,24</option>
+				<option>123,82</option>
+				<option>125,41</option>
+				<option>127,00</option>
+				<option>127,79</option>
+				<option>128,58</option>
+				<option>129,38</option>
+				<option>130,17</option>
+				<option>130,97</option>
+				<option>131,76</option>
+				<option>132,55</option>
+				<option>133,35</option>
+				<option>134,14</option>
+				<option>134,94</option>
+				<option>135,73</option>
+				<option>136,52</option>
+				<option>138,11</option>
+				<option>139,70</option>
+				<option>141,28</option>
+				<option>142,87</option>
+				<option>144,46</option>
+				<option>146,05</option>
+				<option>147,64</option>
+				<option>149,22</option>
+				<option>150,81</option>
+				<option>152,40</option>
+				<option>153,19</option>
+				<option>153,98</option>
+				<option>154,78</option>
+				<option>155,57</option>
+				<option>156,37</option>
+				<option>157,16</option>
+				<option>157,95</option>
+				<option>158,75</option>
+				<option>159,54</option>
+				<option>160,34</option>
+				<option>161,13</option>
+				<option>161,92</option>
+				<option>163,51</option>
+				<option>165,10</option>
+				<option>166,68</option>
+				<option>168,27</option>
+				<option>169,86</option>
+				<option>171,45</option>
+				<option>173,04</option>
+				<option>174,62</option>
+				<option>176,21</option>
+				<option>177,80</option>
+				<option>178,59</option>
+				<option>179,38</option>
+				<option>180,18</option>
+				<option>180,97</option>
+				<option>181,77</option>
+				<option>182,56</option>
+				<option>183,35</option>
+				<option>184,15</option>
+				<option>184,94</option>
+				<option>185,74</option>
+				<option>186,53</option>
+				<option>187,32</option>
+				<option>188,91</option>
+				<option>190,50</option>
+				<option>192,08</option>
+				<option>193,67</option>
+				<option>195,26</option>
+				<option>196,85</option>
+				<option>198,44</option>
+				<option>200,02</option>
+				<option>201,61</option>
+				<option>203,20</option>
+				<option>203,99</option>
+				<option>204,78</option>
+				<option>205,58</option>
+				<option>206,37</option>
+				<option>207,17</option>
+				<option>207,96</option>
+				<option>208,75</option>
+				<option>209,55</option>
+				<option>210,34</option>
+				<option>211,14</option>
+				<option>211,93</option>
+				<option>212,72</option>
+				<option>214,31</option>
+				<option>215,90</option>
+				<option>217,48</option>
+				<option>219,07</option>
+				<option>220,66</option>
+				<option>222,25</option>
+				<option>223,84</option>
+				<option>225,42</option>
+				<option>227,01</option>
+				<option>228,60</option>
+				<option>229,39</option>
+				<option>230,18</option>
+				<option>230,98</option>
+				<option>231,77</option>
+				<option>232,57</option>
+				<option>233,36</option>
+				<option>234,15</option>
+				<option>234,95</option>
+				<option>235,74</option>
+				<option>236,54</option>
+				<option>237,33</option>
+				<option>238,12</option>
+				<option>239,71</option>
+				<option>241,30</option>
+				<option>242,88</option>
+				<option>244,47</option>
+				<option>246,06</option>
+				<option>247,65</option>
+				<option>249,24</option>
+				<option>250,82</option>
+				<option>252,41</option>
+				<option>254,00</option>
+				<option>254,79</option>
+				<option>255,58</option>
+				<option>256,38</option>
+				<option>257,17</option>
+				<option>257,97</option>
+				<option>258,76</option>
+				<option>259,55</option>
+				<option>260,35</option>
+				<option>261,14</option>
+				<option>261,94</option>
+				<option>262,73</option>
+				<option>263,52</option>
+				<option>265,11</option>
+				<option>266,70</option>
+				<option>268,28</option>
+				<option>269,87</option>
+				<option>271,46</option>
+				<option>273,05</option>
+				<option>274,64</option>
+				<option>276,22</option>
+				<option>277,81</option>
+				<option>279,40</option>
+				<option>280,19</option>
+				<option>280,98</option>
+				<option>281,78</option>
+				<option>282,57</option>
+				<option>283,37</option>
+				<option>284,16</option>
+				<option>284,95</option>
+				<option>285,75</option>
+				<option>286,54</option>
+				<option>287,34</option>
+				<option>288,13</option>
+				<option>288,92</option>
+				<option>290,51</option>
+				<option>292,10</option>
+				<option>293,68</option>
+				<option>295,27</option>
+				<option>296,86</option>
+				<option>298,45</option>
+				<option>300,04</option>
+				<option>301,62</option>
+				<option>303,21</option>
+				<option>304,80</option>
+				<option>305,59</option>
+				<option>306,38</option>
+				<option>307,18</option>
+				<option>307,97</option>
+				<option>308,77</option>
+				<option>309,56</option>
+				<option>310,35</option>
+				<option>311,15</option>
+				<option>311,94</option>
+				<option>312,74</option>
+				<option>313,53</option>
+				<option>314,32</option>
+				<option>315,91</option>
+				<option>317,50</option>
+				<option>319,08</option>
+				<option>320,67</option>
+				<option>322,26</option>
+				<option>323,85</option>
+				<option>325,44</option>
+				<option>327,02</option>
+				<option>328,61</option>
+				<option>330,20</option>
+				<option>330,99</option>
+				<option>331,78</option>
+				<option>332,58</option>
+				<option>333,37</option>
+				<option>334,17</option>
+				<option>334,96</option>
+				<option>335,75</option>
+				<option>336,55</option>
+				<option>337,34</option>
+				<option>338,14</option>
+				<option>338,93</option>
+				<option>339,72</option>
+				<option>341,31</option>
+				<option>342,90</option>
+				<option>344,48</option>
+				<option>346,07</option>
+				<option>347,66</option>
+				<option>349,25</option>
+				<option>350,84</option>
+				<option>352,42</option>
+				<option>354,01</option>
+				<option>355,60</option>
+				<option>356,39</option>
+				<option>357,18</option>
+				<option>357,98</option>
+				<option>358,77</option>
+				<option>359,57</option>
+				<option>360,36</option>
+				<option>361,15</option>
+				<option>361,95</option>
+				<option>362,74</option>
+				<option>363,54</option>
+				<option>364,33</option>
+				<option>365,12</option>
+				<option>366,71</option>
+				<option>368,30</option>
+				<option>369,88</option>
+				<option>371,47</option>
+				<option>373,06</option>
+				<option>374,65</option>
+				<option>376,24</option>
+				<option>377,82</option>
+				<option>379,41</option>
+				<option>381,00</option>
+				<option>381,79</option>
+				<option>382,58</option>
+				<option>383,38</option>
+				<option>384,17</option>
+				<option>384,97</option>
+				<option>385,76</option>
+				<option>386,55</option>
+				<option>387,35</option>
+				<option>388,14</option>
+				<option>388,94</option>
+				<option>389,73</option>
+				<option>390,52</option>
+				<option>392,11</option>
+				<option>393,70</option>
+				<option>395,28</option>
+				<option>396,87</option>
+				<option>398,46</option>
+				<option>400,05</option>
+				<option>401,64</option>
+				<option>403,22</option>
+				<option>404,81</option>
+				<option>406,40</option>
+				<option>407,19</option>
+				<option>407,98</option>
+				<option>408,78</option>
+				<option>409,57</option>
+				<option>410,37</option>
+				<option>411,16</option>
+				<option>411,95</option>
+				<option>412,75</option>
+				<option>413,54</option>
+				<option>414,34</option>
+				<option>415,13</option>
+				<option>415,92</option>
+				<option>417,51</option>
+				<option>419,10</option>
+				<option>420,68</option>
+				<option>422,27</option>
+				<option>423,86</option>
+				<option>425,45</option>
+				<option>427,04</option>
+				<option>428,62</option>
+				<option>430,21</option>
+				<option>431,80</option>
+				<option>432,59</option>
+				<option>433,38</option>
+				<option>434,18</option>
+				<option>434,97</option>
+				<option>435,77</option>
+				<option>436,56</option>
+				<option>437,35</option>
+				<option>438,15</option>
+				<option>438,94</option>
+				<option>439,74</option>
+				<option>440,53</option>
+				<option>441,32</option>
+				<option>442,91</option>
+				<option>444,50</option>
+				<option>446,08</option>
+				<option>447,67</option>
+				<option>449,26</option>
+				<option>450,85</option>
+				<option>452,44</option>
+				<option>454,02</option>
+				<option>455,61</option>
+				<option>457,20</option>
+				<option>457,99</option>
+				<option>458,78</option>
+				<option>459,58</option>
+				<option>460,37</option>
+				<option>461,17</option>
+				<option>461,96</option>
+				<option>462,75</option>
+				<option>463,55</option>
+				<option>464,34</option>
+				<option>465,14</option>
+				<option>465,93</option>
+				<option>466,72</option>
+				<option>468,31</option>
+				<option>469,90</option>
+				<option>471,48</option>
+				<option>473,07</option>
+				<option>474,66</option>
+				<option>476,25</option>
+				<option>477,84</option>
+				<option>479,42</option>
+				<option>481,01</option>
+				<option>482,60</option>
+				<option>483,39</option>
+				<option>484,18</option>
+				<option>484,98</option>
+				<option>485,77</option>
+				<option>486,57</option>
+				<option>487,36</option>
+				<option>488,15</option>
+				<option>488,95</option>
+				<option>489,74</option>
+				<option>490,54</option>
+				<option>491,33</option>
+				<option>492,12</option>
+				<option>493,71</option>
+				<option>495,30</option>
+				<option>496,88</option>
+				<option>498,47</option>
+				<option>500,06</option>
+				<option>501,65</option>
+				<option>503,24</option>
+				<option>504,82</option>
+				<option>506,41</option>
+				<option>508,00</option>
+				<option>508,79</option>
+				<option>509,58</option>
+				<option>510,38</option>
+				<option>511,17</option>
+				<option>511,97</option>
+				<option>512,76</option>
+				<option>513,55</option>
+				<option>514,35</option>
+				<option>515,14</option>
+				<option>515,94</option>
+				<option>516,73</option>
+				<option>517,52</option>
+				<option>519,11</option>
+				<option>520,70</option>
+				<option>522,28</option>
+				<option>523,87</option>
+				<option>525,46</option>
+				<option>527,05</option>
+				<option>528,64</option>
+				<option>530,22</option>
+				<option>531,81</option>
+				<option>533,40</option>
+				<option>534,19</option>
+				<option>534,98</option>
+				<option>535,78</option>
+				<option>536,57</option>
+				<option>537,37</option>
+				<option>538,16</option>
+				<option>538,95</option>
+				<option>539,75</option>
+				<option>540,54</option>
+				<option>541,34</option>
+				<option>542,13</option>
+				<option>542,92</option>
+				<option>544,51</option>
+				<option>546,10</option>
+				<option>547,68</option>
+				<option>549,27</option>
+				<option>550,86</option>
+				<option>552,45</option>
+				<option>554,04</option>
+				<option>555,62</option>
+				<option>557,21</option>
+				<option>558,80</option>
+				<option>559,59</option>
+				<option>560,38</option>
+				<option>561,18</option>
+				<option>561,97</option>
+				<option>562,77</option>
+				<option>563,56</option>
+				<option>564,35</option>
+				<option>565,15</option>
+				<option>565,94</option>
+				<option>566,74</option>
+				<option>567,53</option>
+				<option>568,32</option>
+				<option>569,91</option>
+				<option>571,50</option>
+				<option>573,08</option>
+				<option>574,67</option>
+				<option>576,26</option>
+				<option>577,85</option>
+				<option>579,44</option>
+				<option>581,02</option>
+				<option>582,61</option>
+				<option>584,20</option>
+				<option>584,99</option>
+				<option>585,78</option>
+				<option>586,58</option>
+				<option>587,37</option>
+				<option>588,17</option>
+				<option>588,96</option>
+				<option>589,75</option>
+				<option>590,55</option>
+				<option>591,34</option>
+				<option>592,14</option>
+				<option>592,93</option>
+				<option>593,72</option>
+				<option>595,31</option>
+				<option>596,90</option>
+				<option>598,48</option>
+				<option>600,07</option>
+				<option>601,66</option>
+				<option>603,25</option>
+				<option>604,84</option>
+				<option>606,42</option>
+				<option>608,01</option>
+			</select>
+		</div>
+		<div style="clear: both;">
+			<p id="txtTotal">--<span>=</span> --</p>
+		</div>
+	</div>
+</div>
+
+
+	<div class="wpb_text_column wpb_content_element " >
+		<div class="wpb_wrapper">
+			
+
+		</div>
+	</div>
+</div></div></div></div>
+			</div><!-- Content Area -->
+					</div>
+	</div>
+</div>
+
+</div><!-- Main Wrap Inner -->
+<!-- Footer -->
+<footer class="hanor-footer footer-dark-version have-footer-widget">
+    <div class="lazy" class= "footer-bg-image" style="background-image: url();" data-bg="">
+      <div class="container" >
+        <div class="row">
+    		<!-- Footer Widgets -->
+<div class="footer-widget-area">
+	<div class="footer-widget col-md-6 "><div class=" hanor-widget vt-text-widget"><h4 class="footer-widget-title">Nelmetais</h4><p class=" hanor-type-text-650e4820a41ab">Ao longo de 40 anos, a Nelmetais consolidou-se como uma das maiores distribuidoras nesse segmento, pois sempre teve e continuará a ter como prioridade, oferecer aos seus clientes os melhores ingredientes para o sucesso.</p>
+<div class="clear"></div></div> <!-- end widget --></div><div class="footer-widget col-md-6 "><div class=" hanor-widget vt-text-widget"><h4 class="footer-widget-title">Contatos</h4><ul class="address-info col-md-6  hanor-address-info-650e4820a4645"> <li class=" hav-icon"><i class="fa fa-home"></i>  <span class="info-list">São Paulo - Rua Camé, 491 - Mooca - São Paulo - SP</span></li><li class=" hav-icon"><i class="fa fa-phone"></i>  <span class="info-list"><a href="tel:1135313444" >(11) 3531.3444</a></span></li><li class=" dhav-icon"><i class=""></i>  <span class="info-list"><a href="tel:1135313431" >(11) 3531.3431</a></span></li></ul>
+
+<ul class="address-info col-md-6  hanor-address-info-650e4820a4853"> <li class=" hav-icon"><i class="fa fa-home"></i>  <span class="info-list">Campinas - Av. Pompeo de Vitto, 419 - Campinas - SP</span></li><li class=" hav-icon"><i class="fa fa-phone"></i>  <span class="info-list"><a href="tel:1932020404" >(19) 3202.0404</a></span></li><li class=" dhav-icon"><i class=""></i>  <span class="info-list"><a href="tel:1932020422" >(19) 3202.0422</a></span></li></ul><div class="clear"></div></div> <!-- end widget --></div></div>
+<!-- Footer Widgets -->
+      </div>
+    </div>
+  </div>  
+  <!-- Copyright Bar -->
+<div class="hanor-copyright footer-cpy-dark-version">
+  <div class="container">
+    <div class="col-md-12 text-center">
+      <div class="copyright-wrap">
+
+      	© Copyright 2023 – Nelmetais. Todos os direitos reservados. Cópia e/ou uso não permitido sem prévia autorização. As imagens do site são meramente ilustrativas.
+As informações nesse site são orientativas e não garantimos ou nos responsabilizamos pelas mesmas, caso necessite entre em contato com nossa equipe comercial para informações mais detalhadas.
+ <a href="http://www.nelmetais.com.br/politica-de-privacidade/" target="_blank">Política de Privacidade</a>.
+ Desenvolvido por <a href="http://www.regra1.com.br" target="_blank">RegraHum</a>      </div>
+    </div>
+      </div>
+</div>
+<!-- Copyright Bar -->
+</footer>
+<!-- Footer -->
+</div><!-- Main Wrap -->
+<!-- Hanor Back Top -->
+<div class="hanor-back-top">
+  <a href="javascript:void(0);"><i class="fa fa-angle-up" aria-hidden="true"></i></a>
+</div>
+
+		<script>
+			window.RS_MODULES = window.RS_MODULES || {};
+			window.RS_MODULES.modules = window.RS_MODULES.modules || {};
+			window.RS_MODULES.waiting = window.RS_MODULES.waiting || [];
+			window.RS_MODULES.defered = false;
+			window.RS_MODULES.moduleWaiting = window.RS_MODULES.moduleWaiting || {};
+			window.RS_MODULES.type = 'compiled';
+		</script>
+		<style id="havnor-inline-style" type="text/css"></style><script type="text/html" id="wpb-modifications"></script><!-- easy_custom_js_and_css begin -->
+<script type="text/javascript">
+function volume(tipo,a,b,c,d){switch(tipo){case "barra_quadrada":c=b;b=a;case "barra_retangular":case "bobina":case "chapa":return a*b*c/1000;case "tarugo":if(!a||a<=0)return-1;a=a*1+1.58;case "barra_redonda":return Math.PI*Math.pow(a/2,2)*b/1000;case "barra_hexagonal":return b*Math.sqrt(3)*Math.pow(a,2)/2000;case "bucha":b=b*1+1.58;a=a*1-1.58;return(Math.pow(b,2)-Math.pow(a,2))*0.7854*c/1000;case "tubo_redondo":return Math.PI*(a*b-Math.pow(a,2))*c/1000;case "tubo_quadrado":d=c;c=b;case "tubo_retangular":b-=a;c-=a;return(b+c)*2*a*d/1000;case "perfil_l":case "perfil_t":return(2*a*b-Math.pow(a,2))*c/1000;case "perfil_u":return(3*a*b-2*Math.pow(a,2))*c/1000;default:return-1}}
+function peso(material,tipo,a,b,c,d){var materiais=new Array();materiais.Alumínio=2.7;materiais.Cobre=8.9;materiais.Latão=8.5;materiais.Bronze=9;materiais.Aço=7.85;materiais.Ferro=7.85;return volume(tipo,a,b,c,d)*materiais[material]}
+function toNumber(number){number=number.replace(/,/,".");number=number.replace(/[^0-9\.]*/,"");return number}
+function limpaTxt(){jQuery("#txta").val("");jQuery("#txtb").val("");jQuery("#txtc").val("");jQuery("#txtd").val("");jQuery("#divRes_valor").html("-")}
+jQuery(".botoesmetal li").click(function(){limpaTxt();jQuery('.botoesmetal li').removeClass('active');jQuery(this).addClass('active');jQuery('#material').val(jQuery(this).html());jQuery("input").change();if(jQuery(this).html()=='Aço'){jQuery("li[tipo='barra_quadrada']").show();jQuery("li[tipo='barra_retangular']").show();jQuery("li[tipo='bobina']").show();jQuery("li[tipo='chapa']").show();jQuery("li[tipo='tarugo']").hide();jQuery("li[tipo='barra_redonda']").show();jQuery("li[tipo='barra_hexagonal']").show();jQuery("li[tipo='bucha']").hide();jQuery("li[tipo='tubo_redondo']").show();jQuery("li[tipo='tubo_quadrado']").show();jQuery("li[tipo='tubo_retangular']").show();jQuery("li[tipo='perfil_l']").show();jQuery("li[tipo='perfil_t']").show();jQuery("li[tipo='perfil_u']").show();limpaTxt();jQuery('.botoestipos li').removeClass('active');jQuery('li[tipo="barra_quadrada"]').addClass('active');jQuery('#tipo').val("barra_quadrada");jQuery("input").change()}
+if(jQuery(this).html()=='Alumínio'){jQuery("li[tipo='barra_quadrada']").show();jQuery("li[tipo='barra_retangular']").show();jQuery("li[tipo='bobina']").show();jQuery("li[tipo='chapa']").show();jQuery("li[tipo='tarugo']").hide();jQuery("li[tipo='barra_redonda']").show();jQuery("li[tipo='barra_hexagonal']").show();jQuery("li[tipo='bucha']").hide();jQuery("li[tipo='tubo_redondo']").show();jQuery("li[tipo='tubo_quadrado']").show();jQuery("li[tipo='tubo_retangular']").show();jQuery("li[tipo='perfil_l']").show();jQuery("li[tipo='perfil_t']").show();jQuery("li[tipo='perfil_u']").show();limpaTxt();jQuery('.botoestipos li').removeClass('active');jQuery('li[tipo="barra_quadrada"]').addClass('active');jQuery('#tipo').val("barra_quadrada");jQuery("input").change()}
+if(jQuery(this).html()=='Bronze'){jQuery("li[tipo='barra_quadrada']").show();jQuery("li[tipo='barra_retangular']").hide();jQuery("li[tipo='bobina']").show();jQuery("li[tipo='chapa']").hide();jQuery("li[tipo='tarugo']").show();jQuery("li[tipo='barra_redonda']").hide();jQuery("li[tipo='barra_hexagonal']").hide();jQuery("li[tipo='bucha']").show();jQuery("li[tipo='tubo_redondo']").hide();jQuery("li[tipo='tubo_quadrado']").hide();jQuery("li[tipo='tubo_retangular']").hide();jQuery("li[tipo='perfil_l']").hide();jQuery("li[tipo='perfil_t']").hide();jQuery("li[tipo='perfil_u']").hide();limpaTxt();jQuery('.botoestipos li').removeClass('active');jQuery('li[tipo="barra_quadrada"]').addClass('active');jQuery('#tipo').val("barra_quadrada");jQuery("input").change()}
+if(jQuery(this).html()=='Cobre'){jQuery("li[tipo='barra_quadrada']").show();jQuery("li[tipo='barra_retangular']").show();jQuery("li[tipo='bobina']").show();jQuery("li[tipo='chapa']").show();jQuery("li[tipo='tarugo']").hide();jQuery("li[tipo='barra_redonda']").show();jQuery("li[tipo='barra_hexagonal']").hide();jQuery("li[tipo='bucha']").hide();jQuery("li[tipo='tubo_redondo']").show();jQuery("li[tipo='tubo_quadrado']").hide();jQuery("li[tipo='tubo_retangular']").hide();jQuery("li[tipo='perfil_l']").hide();jQuery("li[tipo='perfil_t']").hide();jQuery("li[tipo='perfil_u']").hide();limpaTxt();jQuery('.botoestipos li').removeClass('active');jQuery('li[tipo="barra_quadrada"]').addClass('active');jQuery('#tipo').val("barra_quadrada");jQuery("input").change()}
+if(jQuery(this).html()=='Ferro'){jQuery("li[tipo='barra_quadrada']").show();jQuery("li[tipo='barra_retangular']").show();jQuery("li[tipo='bobina']").show();jQuery("li[tipo='chapa']").show();jQuery("li[tipo='tarugo']").hide();jQuery("li[tipo='barra_redonda']").show();jQuery("li[tipo='barra_hexagonal']").show();jQuery("li[tipo='bucha']").hide();jQuery("li[tipo='tubo_redondo']").show();jQuery("li[tipo='tubo_quadrado']").show();jQuery("li[tipo='tubo_retangular']").show();jQuery("li[tipo='perfil_l']").show();jQuery("li[tipo='perfil_t']").show();jQuery("li[tipo='perfil_u']").show();limpaTxt();jQuery('.botoestipos li').removeClass('active');jQuery('li[tipo="barra_quadrada"]').addClass('active');jQuery('#tipo').val("barra_quadrada");jQuery("input").change()}
+if(jQuery(this).html()=='Latão'){jQuery("li[tipo='barra_quadrada']").show();jQuery("li[tipo='barra_retangular']").show();jQuery("li[tipo='bobina']").show();jQuery("li[tipo='chapa']").show();jQuery("li[tipo='tarugo']").hide();jQuery("li[tipo='barra_redonda']").show();jQuery("li[tipo='barra_hexagonal']").show();jQuery("li[tipo='bucha']").hide();jQuery("li[tipo='tubo_redondo']").show();jQuery("li[tipo='tubo_quadrado']").hide();jQuery("li[tipo='tubo_retangular']").hide();jQuery("li[tipo='perfil_l']").hide();jQuery("li[tipo='perfil_t']").hide();jQuery("li[tipo='perfil_u']").hide();limpaTxt();jQuery('.botoestipos li').removeClass('active');jQuery('li[tipo="barra_quadrada"]').addClass('active');jQuery('#tipo').val("barra_quadrada");jQuery("input").change()}});jQuery(".botoestipos li").click(function(){limpaTxt();jQuery('.botoestipos li').removeClass('active');jQuery(this).addClass('active');jQuery('#tipo').val(jQuery(this).attr("tipo"));jQuery("input").change()});jQuery("input").keyup(function(){jQuery(this).change()});jQuery("input").change(function(){if(!jQuery("#material").val()||!jQuery("#tipo").val()){return!1}
+var a,b,c,d,img,aVal,bVal,cVal,dVal,resultado="peça",pesoVal=0,unidade="g";switch(jQuery("#tipo").val()){case "tarugo":a="<span class='selo'>A</span> - Altura (mm)";b="<span class='selo'>C</span> - Comprimento (mm)";img="../wp-content/uploads/2019/07/tarugo.jpg";break;case "barra_quadrada":a="<span class='selo'>A</span> - Altura (mm)";b="<span class='selo'>C</span> - Comprimento (mm)";img="../wp-content/uploads/2019/07/barra-quadrada.jpg";break;case "barra_hexagonal":a="<span class='selo'>A</span> - Altura (mm)";b="<span class='selo'>C</span> - Comprimento (mm)";img="../wp-content/uploads/2019/07/barra-sextavada.jpg";break;case "barra_redonda":a="<span class='selo'>D</span> - Diâmetro (mm)";b="<span class='selo'>C</span> - Comprimento (mm)";img="../wp-content/uploads/2019/07/barra-redonda.jpg";break;case "barra_retangular":a="<span class='selo'>E</span> - Espessura (mm)";b="<span class='selo'>L</span> - Largura (mm)";c="<span class='selo'>C</span> - Comprimento (mm)";img="../wp-content/uploads/2019/07/barra-retangular.jpg";break;case "bobina":a="<span class='selo'>E</span> - Espessura (mm)";b="<span class='selo'>L</span> - Largura (mm)";c="<span class='selo'>C</span> - Comprimento (mm)";img="../wp-content/uploads/2019/07/bobina.jpg";break;case "chapa":a="<span class='selo'>E</span> - Espessura (mm)";b="<span class='selo'>L</span> - Largura (mm)";c="<span class='selo'>C</span> - Comprimento (mm)";img="../wp-content/uploads/2019/07/chapa.jpg";resultado="peça";break;case "tubo_redondo":a="<span class='selo'>E</span> - Espessura (mm)";b="<span class='selo'>D</span> - Diâmetro (mm)";c="<span class='selo'>C</span> - Comprimento (mm)";img="../wp-content/uploads/2019/07/tubo-redondo.jpg";break;case "tubo_quadrado":a="<span class='selo'>E</span> - Espessura (mm)";b="<span class='selo'>L</span> - Lado (mm)";c="<span class='selo'>C</span> - Comprimento (mm)";img="../wp-content/uploads/2019/07/tubo-quadrado.jpg";break;case "tubo_retangular":a="<span class='selo'>E</span> - Espessura (mm)";b="<span class='selo'>L1</span> - Lado 1 (mm)";c="<span class='selo'>L2</span> - Lado 2 (mm)";d="<span class='selo'>C</span> - Comprimento (mm)";img="../wp-content/uploads/2019/07/tubo-retangular.jpg";break;case "perfil_l":a="<span class='selo'>E</span> - Espessura (mm)";b="<span class='selo'>L</span> - Largura (mm)";c="<span class='selo'>C</span> - Comprimento (mm)";img="../wp-content/uploads/2019/07/perfil-l.jpg";break;case "perfil_t":a="<span class='selo'>E</span> - Espessura (mm)";b="<span class='selo'>L</span> - Largura (mm)";c="<span class='selo'>C</span> - Comprimento (mm)";img="../wp-content/uploads/2019/07/perfil-t.jpg";break;case "perfil_u":a="<span class='selo'>E</span> - Espessura (mm)";b="<span class='selo'>L</span> - Largura (mm)";c="<span class='selo'>C</span> - Comprimento (mm)";img="../wp-content/uploads/2019/07/perfil-u.jpg";break;case "bucha":a="<span class='selo'>Di</span> - Diâmetro interno (mm)";b="<span class='selo'>De</span> - Diâmetro externo (mm)";c="<span class='selo'>C</span> - Comprimento (mm)";img="../wp-content/uploads/2019/07/bucha.jpg";break}
+pesoVal=peso(jQuery("#material").val(),jQuery("#tipo").val(),toNumber(jQuery("#txta").val()),toNumber(jQuery("#txtb").val()),toNumber(jQuery("#txtc").val()),toNumber(jQuery("#txtd").val()));jQuery("#diva_label").html(a);jQuery("#divb_label").html(b);jQuery("#divc_label").html(c);jQuery("#divd_label").html(d);var image=jQuery("#img-tipometal");if(image.attr('src')!=img){image.fadeOut('fast',function(){image.attr('src',img);image.fadeIn('fast')})}
+jQuery("#divRes_label").html("<span class='selo'>Peso por "+resultado+"</span>");if(pesoVal>0){pesoVal/=1000;unidade="kg";if(pesoVal>=1000){pesoVal/=1000;unidade="t"}
+jQuery("#divRes_valor").html(Math.round(pesoVal*1000)/1000+unidade)}else{jQuery("#divRes_valor").html("")}
+if(a)jQuery("#diva").show();else jQuery("#diva").hide();if(b)jQuery("#divb").show();else jQuery("#divb").hide();if(c)jQuery("#divc").show();else jQuery("#divc").hide();if(d)jQuery("#divd").show();else jQuery("#divd").hide();jQuery("#divRes").show()});jQuery("select").change();function preload(arrayOfImages){jQuery(arrayOfImages).each(function(){(new Image()).src=this})}
+preload(['../wp-content/uploads/2019/07/barra-quadrada.jpg','../wp-content/uploads/2019/07/barra-redonda.jpg','../wp-content/uploads/2019/07/barra-retangular.jpg','../wp-content/uploads/2019/07/barra-sextavada.jpg','../wp-content/uploads/2019/07/bobina.jpg','../wp-content/uploads/2019/07/bucha.jpg','../wp-content/uploads/2019/07/chapa.jpg','../wp-content/uploads/2019/07/perfil-l.jpg','../wp-content/uploads/2019/07/perfil-t.jpg','../wp-content/uploads/2019/07/perfil-u.jpg','../wp-content/uploads/2019/07/tarugo.jpg','../wp-content/uploads/2019/07/tubo-quadrado.jpg','../wp-content/uploads/2019/07/tubo-redondo.jpg','../wp-content/uploads/2019/07/tubo-retangular.jpg'])
+</script>
+<!-- easy_custom_js_and_css end -->
+<!-- easy_custom_js_and_css begin -->
+<script type="text/javascript">
+var elmm=document.getElementById('mm');var elpo=document.getElementById('polegada');var eltx=document.getElementById('txtTotal');clickerMM=function(){console.log('MM -------------');console.log('VALOR '+elmm.options[elmm.selectedIndex].text);console.log('ID '+elmm.selectedIndex);elpo.selectedIndex=elmm.selectedIndex;eltx.innerHTML=elpo.options[elmm.selectedIndex].text+"\" <span>=</span> "+elmm.options[elmm.selectedIndex].text+"mm"}
+clickerPOL=function(){console.log('POL ------------');console.log('VALOR '+elpo.options[elpo.selectedIndex].text);console.log('ID '+elpo.selectedIndex);elmm.selectedIndex=elpo.selectedIndex;eltx.innerHTML=elpo.options[elmm.selectedIndex].text+"\" <span>=</span> "+elmm.options[elmm.selectedIndex].text+"mm"}
+elmm.addEventListener('click',clickerMM);elpo.addEventListener('click',clickerPOL)
+</script>
+<!-- easy_custom_js_and_css end -->
+<link rel='stylesheet' id='rs-plugin-settings-css' href='http://www.nelmetais.com.br/wp-content/plugins/revslider/public/assets/css/rs6.css?ver=6.5.14' type='text/css' media='all' />
+<style id='rs-plugin-settings-inline-css' type='text/css'>
+#rs-demo-id {}
+</style>
+<script type='text/javascript' src='http://www.nelmetais.com.br/wp-content/plugins/contact-form-7/includes/swv/js/index.js?ver=5.7.5.1' id='swv-js'></script>
+<script type='text/javascript' id='contact-form-7-js-extra'>
+/* <![CDATA[ */
+var wpcf7 = {"api":{"root":"http:\/\/www.nelmetais.com.br\/wp-json\/","namespace":"contact-form-7\/v1"},"cached":"1"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://www.nelmetais.com.br/wp-content/plugins/contact-form-7/includes/js/index.js?ver=5.7.5.1' id='contact-form-7-js'></script>
+<script type='text/javascript' src='http://www.nelmetais.com.br/wp-content/themes/havnor/assets/js/bootstrap-slider.min.js?ver=1.9.1' id='slider-js'></script>
+<script type='text/javascript' src='http://www.nelmetais.com.br/wp-content/themes/havnor/assets/js/jquery-jvectormap-2.0.3.min.js?ver=1.9.1' id='lions-vectormap-js'></script>
+<script type='text/javascript' src='http://www.nelmetais.com.br/wp-content/themes/havnor/assets/js/jquery-jvectormap-world-mill.js?ver=1.9.1' id='lions-world-mill-js'></script>
+<script type='text/javascript' src='http://www.nelmetais.com.br/wp-content/themes/havnor/assets/js/bootstrap.min.js?ver=3.3.6' id='bootstrap-js'></script>
+<script type='text/javascript' src='http://www.nelmetais.com.br/wp-content/themes/havnor/assets/js/html5shiv.min.js?ver=3.7.0' id='html5shiv-js'></script>
+<script type='text/javascript' src='http://www.nelmetais.com.br/wp-content/themes/havnor/assets/js/respond.min.js?ver=1.4.2' id='respond-js'></script>
+<script type='text/javascript' src='http://www.nelmetais.com.br/wp-content/themes/havnor/assets/js/enscroll.min.js?ver=0.6.2' id='enscroll-js'></script>
+<script type='text/javascript' src='http://www.nelmetais.com.br/wp-content/themes/havnor/assets/js/placeholders.min.js?ver=4.0.1' id='placeholders-js'></script>
+<script type='text/javascript' src='http://www.nelmetais.com.br/wp-content/themes/havnor/assets/js/jquery.sticky.min.js?ver=1.0.4' id='jquery-sticky-js'></script>
+<script type='text/javascript' src='http://www.nelmetais.com.br/wp-content/themes/havnor/assets/js/jarallax.min.js?ver=1.7.3' id='jarallax-js'></script>
+<script type='text/javascript' src='http://www.nelmetais.com.br/wp-content/themes/havnor/assets/js/jquery.magnific-popup.min.js?ver=1.1.0' id='magnific-popup-js'></script>
+<script type='text/javascript' src='http://www.nelmetais.com.br/wp-content/themes/havnor/assets/js/jquery-countdown.min.js?ver=1.6.2' id='jquery-countdown-js'></script>
+<script type='text/javascript' src='http://www.nelmetais.com.br/wp-content/themes/havnor/assets/js/jquery.matchHeight-min.js?ver=0.7.2' id='matchHeight-js'></script>
+<script type='text/javascript' src='http://www.nelmetais.com.br/wp-content/themes/havnor/assets/js/circle-progress.min.js?ver=1.2.1' id='circle-progress-js'></script>
+<script type='text/javascript' src='http://www.nelmetais.com.br/wp-content/themes/havnor/assets/js/owl.carousel.min.js?ver=2.1.6' id='owl-carousel-js'></script>
+<script type='text/javascript' src='http://www.nelmetais.com.br/wp-content/themes/havnor/assets/js/swiper.jquery.min.js?ver=3.4.0' id='swiper-js'></script>
+<script type='text/javascript' src='http://www.nelmetais.com.br/wp-content/themes/havnor/assets/js/jquery.counterup.min.js?ver=1.0' id='jquery-counterup-js'></script>
+<script type='text/javascript' src='http://www.nelmetais.com.br/wp-content/plugins/js_composer/assets/lib/flexslider/jquery.flexslider.min.js?ver=6.8.0' id='flexslider-js'></script>
+<script type='text/javascript' src='http://www.nelmetais.com.br/wp-content/plugins/js_composer/assets/lib/bower/isotope/dist/isotope.pkgd.min.js?ver=6.8.0' id='isotope-js'></script>
+<script type='text/javascript' src='http://www.nelmetais.com.br/wp-content/themes/havnor/assets/js/packery-mode.pkgd.min.js?ver=2.0.0' id='packery-mode-js'></script>
+<script type='text/javascript' src='http://www.nelmetais.com.br/wp-content/themes/havnor/assets/js/jquery.nice-select.min.js?ver=1.0' id='nice-select-js'></script>
+<script type='text/javascript' src='http://www.nelmetais.com.br/wp-content/themes/havnor/assets/js/hoverdir.min.js?ver=1.1.2' id='hoverdir-js'></script>
+<script type='text/javascript' src='http://www.nelmetais.com.br/wp-content/themes/havnor/assets/js/particles.js?ver=1.9.1' id='particles-js'></script>
+<script type='text/javascript' src='http://www.nelmetais.com.br/wp-content/themes/havnor/assets/js/theia-sticky-sidebar.min.js?ver=1.5.0' id='sticky-sidebar-js'></script>
+<script type='text/javascript' src='http://www.nelmetais.com.br/wp-content/themes/havnor/assets/js/typed.min.js?ver=1.9.1' id='typed-js'></script>
+<script type='text/javascript' src='http://www.nelmetais.com.br/wp-content/themes/havnor/assets/js/loaders.min.js?ver=1.9.1' id='loaders-js'></script>
+<script type='text/javascript' src='http://www.nelmetais.com.br/wp-content/themes/havnor/assets/js/cocoen.min.js?ver=1.9.1' id='cocoen-js'></script>
+<script type='text/javascript' src='http://www.nelmetais.com.br/wp-content/themes/havnor/assets/js/jquery.meanmenu.js?ver=1.9.1' id='meanmenu-js'></script>
+<script type='text/javascript' src='http://www.nelmetais.com.br/wp-content/themes/havnor/assets/js/slick.js?ver=1.5.9' id='slick-js'></script>
+<script type='text/javascript' src='http://www.nelmetais.com.br/wp-content/themes/havnor/assets/js/lazyload.min.js?ver=2.0.0' id='lazyload-js'></script>
+<script type='text/javascript' src='http://www.nelmetais.com.br/wp-content/themes/havnor/assets/js/waypoints.min.js?ver=2.0.3' id='waypoints-js'></script>
+<script type='text/javascript' src='http://www.nelmetais.com.br/wp-content/themes/havnor/assets/js/scripts.js?ver=1.9.1' id='havnor-scripts-js'></script>
+<script type='text/javascript' src='http://www.nelmetais.com.br/wp-content/themes/havnor/assets/js/jquery.validate.min.js?ver=1.9.0' id='jquery-validate-js-js'></script>
+<script type='text/javascript' id='jquery-validate-js-js-after'>
+jQuery(document).ready(function($) {$("#commentform").validate({rules: {author: {required: true,minlength: 2},email: {required: true,email: true},comment: {required: true,minlength: 10}}});});
+</script>
+<script type='text/javascript' id='malinky-ajax-pagination-main-js-js-extra'>
+/* <![CDATA[ */
+var malinkySettings = {"1":{"ajax_loader":"<div class=\"hanor-mpreloader\"><div class=\"mloader-wrap\"><div class=\"mloader\"><div class=\"mloader-inner\"><div><\/div><div><\/div><\/div><img class=\"loader-icon\" src=\"http:\/\/www.nelmetais.com.br\/wp-content\/plugins\/havnor-core\/assets\/images\/icon4.png\" alt=\"\" \/><\/div><\/div><\/div>"}};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://www.nelmetais.com.br/wp-content/plugins/havnor-core/assets/main.js' id='malinky-ajax-pagination-main-js-js'></script>
+<script type='text/javascript' src='http://www.nelmetais.com.br/wp-content/plugins/js_composer/assets/js/dist/js_composer_front.min.js?ver=6.8.0' id='wpb_composer_front_js-js'></script>
+<script>window.w3tc_lazyload=1,window.lazyLoadOptions={elements_selector:".lazy",callback_loaded:function(t){var e;try{e=new CustomEvent("w3tc_lazyload_loaded",{detail:{e:t}})}catch(a){(e=document.createEvent("CustomEvent")).initCustomEvent("w3tc_lazyload_loaded",!1,!1,{e:t})}window.dispatchEvent(e)}}</script><script async src="http://www.nelmetais.com.br/wp-content/plugins/w3-total-cache/pub/js/lazyload.min.js"></script></body>
+</html>
+
+<!--
+Performance optimized by W3 Total Cache. Learn more: https://www.boldgrid.com/w3-total-cache/
+
+Object Caching 74/79 objects using disk
+Page Caching using disk: enhanced 
+Lazy Loading
+
+Served from: www.nelmetais.com.br @ 2023-09-22 23:06:24 by W3 Total Cache
+-->
