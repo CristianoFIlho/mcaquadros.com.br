@@ -35,7 +35,7 @@ footer .container {
 	position: absolute;
 	top: 44px;
 	left: 0;
-	background-color: #d71920;
+	background-color: #555555;
 	width: 70px;
 	height: 5px;
 }
@@ -66,7 +66,7 @@ footer .container {
 }
 /* TABELAS */
 .tablepress tfoot th, .tablepress thead th, .tablepress.umalinha tr td {
-    background-color: #d71920;
+    background-color: #555555;
     font-size: 11px;
     line-height: 13px;
     padding-top: 15px;
@@ -76,7 +76,7 @@ footer .container {
 	border-right: 1px solid #f26469;
 }
 .tablepress.umalinha .row-hover tr:hover td {
-    background-color: #d71920;
+    background-color: #555555;
 }
 .tablepress tbody td {
     border-right: 0.5px solid #eee;
@@ -91,7 +91,7 @@ footer .container {
     white-space:nowrap;
 }
 .tablepress.segundalinha tbody tr:first-child td {
-    background-color: #d71920 !important;
+    background-color: #555555 !important;
     font-size: 11px;
     line-height: 13px;
     padding-top: 15px;
@@ -127,7 +127,7 @@ table.lme tr.semanal td, table.lme tr.mensal td {
     border-right: 0.5px solid #323232;;
 }
 table.lme tr.mensal {
-	background-color: #d71920 !important;
+	background-color: #555555 !important;
    	border-left: 1px solid #efa3a6;
    	border-right: 1px solid #efa3a6;
 }
@@ -135,9 +135,9 @@ table.lme tr:nth-child(odd) {
     background-color: #f9f9f9;
 }
 table.lme .topo td {
-	background-color: #d71920;
+	background-color: #555555;
 	color: #fff;
-	border: 1px solid #d71920;
+	border: 1px solid #555555;
 	font-size: 14px;
 	line-height: 16px;
 	padding-top: 15px;
@@ -205,7 +205,7 @@ table.lme tr.hover:hover td {
     font-family: "Montserrat", Arial, sans-serif;
     font-style: normal;
     font-size: 14px;
-    background-color: #d71920;
+    background-color: #555555;
     font-weight: 600;
     text-transform: uppercase;
     display: inline-block;
@@ -222,8 +222,8 @@ table.lme tr.hover:hover td {
     vertical-align: top;
 }
 #calculodepeso .botoesmetal li:hover, #calculodepeso .botoesmetal li.active {
-    border-color: #d71920;
-    color: #d71920;
+    border-color: #555555;
+    color: #555555;
     background-color: #ffffff;
     -webkit-transition: all 0.4s;
     -moz-transition: all 0.4s;
@@ -263,9 +263,9 @@ table.lme tr.hover:hover td {
     margin-right: 0px;
 }
 #calculodepeso .botoestipos li:hover, #calculodepeso .botoestipos li.active {
-    border-color: #d71920;
+    border-color: #555555;
     color: #fff;
-    background-color: #d71920;
+    background-color: #555555;
     -webkit-transition: all 0.4s;
     -moz-transition: all 0.4s;
     -o-transition: all 0.4s;
@@ -315,7 +315,7 @@ table.lme tr.hover:hover td {
     background-color: #F8F8F8;
 }
 #calculodepeso span.selo {
-    background-color: #d71920;
+    background-color: #555555;
     color: #fff;
     padding: 0 4px 2px 4px;
     border-radius: 10px;
@@ -351,7 +351,7 @@ select#meseano {
     float: left;
 }
 #conversordemedidas select option:checked {
-    background: #d71920 linear-gradient(0deg, #d71920 0%, #d71920 100%);
+    background: #555555 linear-gradient(0deg, #555555 0%, #555555 100%);
     color: #fff;
 }
 #conversordemedidas select {
@@ -375,10 +375,10 @@ select#meseano {
     line-height: 25px;
 }
 #chartjs-legend ul  li:hover span.cor {
-    border: 3px solid #d71920;
+    border: 3px solid #555555;
 }
 #chartjs-legend ul  li.active span.cor {
-    border: 3px solid #d71920;
+    border: 3px solid #555555;
 }
 #chartjs-legend ul  li span.cor {
     width: 21px;
@@ -441,7 +441,7 @@ input[type="email"] {
 #txtTotal {
 	padding: 5px 15px;
 	font-size: 20px;
-	background-color: #d71920;
+	background-color: #555555;
 	font-weight: bold;
 	line-height: 27px;
 	letter-spacing: 0.8px;
@@ -449,8 +449,8 @@ input[type="email"] {
 	color: #fff;
 	margin-top: 10px;
 	text-align: center;
-	border-color: #d71920;
-	color: #d71920;
+	border-color: #555555;
+	color: #555555;
 	background-color: #ffffff;
 	border-width: 1px;
 	border-style: solid;
