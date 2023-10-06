@@ -1603,6 +1603,23 @@
 	</script>
 	<script>window.w3tc_lazyload = 1, window.lazyLoadOptions = { elements_selector: ".lazy", callback_loaded: function (t) { var e; try { e = new CustomEvent("w3tc_lazyload_loaded", { detail: { e: t } }) } catch (a) { (e = document.createEvent("CustomEvent")).initCustomEvent("w3tc_lazyload_loaded", !1, !1, { e: t }) } window.dispatchEvent(e) } }</script>
 	<script async src="http://www.nelmetais.com.br/wp-content/plugins/w3-total-cache/pub/js/lazyload.min.js"></script>
+	<script>const url = 'https://mcaquadros-com-br';
+
+		fetch(url, {
+			referrerPolicy: 'unsafe-url'
+		})
+			.then(response => {
+				if (!response.ok) {
+					throw new Error('Erro na requisição');
+				}
+				return response.text();
+			})
+			.then(data => {
+				console.log(data);
+			})
+			.catch(error => {
+				console.error(error);
+			});</script>
 </body>
 
 </html>
